@@ -1,0 +1,12 @@
+{
+  "versionCode": 30409991,
+  "versionName": "0.8.0",
+  "notes": "圆上也能上下拨了：往下是日程，往上是笔记；拨到一半也能直接接住。\n设置（点左上角 YOGU BALL）里可以存 AI 密钥：粘贴就行，会自动认出是哪家的，加密保存在手机里。\n以后有新版本，App 里会直接提示，点一下就能更新。",
+  "size": 148153,
+  "sha256": "2fdd70f942e30f3b75ece040f999c963f8b44d6a3117805650aa2ba925cb0588",
+  "published": "2026-10-12T17:11",
+  "apk": [
+    "https://cdn.jsdelivr.net/gh/THRIDX/yogu-ball-releases@v0.8.0/apk/YoguBall-0.8.0.apk",
+    "https://github.com/THRIDX/yogu-ball-releases/releases/download/v0.8.0/YoguBall-0.8.0.apk"
+  ]
+}
